@@ -1,0 +1,10 @@
+{
+  "id": "minimal-zen-dashboard",
+  "name": "Minimal Zen Dashboard",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "A calm, minimal and focus-first homepage dashboard for Obsidian.",
+  "author": "Your Name",
+  "authorUrl": "https://example.com",
+  "isDesktopOnly": false
+}
